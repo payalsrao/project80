@@ -1,0 +1,69 @@
+body{
+    text-align:center;
+    background-image: url('b3.jpeg');
+}
+button{
+    vertical-align: middle;
+    font-size: 20px;
+    color: red;
+    background-color: greenyellow;
+    border-radius: 100%;
+    border-color:rosybrown;;
+    width:100px;
+    height:50px;
+    font-family: cursive;
+    cursor: pointer;
+       border-width: 8px;
+
+}
+#s1{
+    text-align:center;
+    background-image: url('b1.jpeg');
+    border-color: black;
+    border-style: solid;
+    width: 40%;
+  color: white;
+    margin:8px auto;
+    font-size:30px;
+}
+#s2{
+    text-align:center;
+    background-image: url('b2.jpeg');
+    border-color: black;
+    border-style: solid;
+    width: 40%;
+    color: white;
+    font-size:30px;
+    margin:8px auto;
+}
+input{
+    border:tan;
+    border-style: solid;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#para{
+    text-align: center;
+    width:70%;
+    background: linear-gradient(yellow, lavender);
+    font-size: 25px;
+    font-family:sans-serif;
+    color: navy;
+    margin: 8px auto;
+}
+h5{
+    font-size: 60px;
+    color: black;
+    font-family: monospace;
+    text-shadow: 3px -3px royalblue;
+    text-decoration: underline;
+    font-style: bold;
+    border:sienna;
+    border-style: groove;
+    border-width: 20px;
+    border-color:yellow;
+    width: 50%;
+    margin: 6px auto;
+    border-radius: 30px;
+
+}
